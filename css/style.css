@@ -164,6 +164,13 @@ img {
   order: 1;
 }
 
+.kids .img-tv {
+  order: 1;
+}
+.kids .grid > div:first-child {
+  order: 2;
+}
+
 .device-pile .video-tv {
   width: 340px;
   top: 40px;
